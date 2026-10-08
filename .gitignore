@@ -1,0 +1,4 @@
+.env
+antigravity-env/
+__pycache__/
+*.pyc
